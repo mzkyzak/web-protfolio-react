@@ -1,8 +1,5 @@
 # 🌟 MZKYZAK - React Interactive Portfolio
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/030014/3b82f6?text=MZKYZAK+React+Portfolio)
-*Silakan ganti link gambar di atas dengan screenshot asli website kamu.*
-
 Website portfolio pribadi yang dibangun dengan **React.js**. Dirancang untuk menampilkan profil, *skill*, *project*, sertifikat, serta kontak dengan antarmuka yang modern, animasi dinamis, dan desain yang responsif di segala perangkat.
 
 **🚀 Live Preview:** [portfolio-mzkyzak.vercel.app](https://portfolio-mzkyzak.vercel.app/)
